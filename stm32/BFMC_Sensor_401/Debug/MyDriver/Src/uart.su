@@ -1,0 +1,17 @@
+../MyDriver/Src/uart.c:22:6:UART1_init	32	static
+../MyDriver/Src/uart.c:59:6:UART2_init	32	static
+../MyDriver/Src/uart.c:94:6:UART2_DMA_RX_Init	24	static
+../MyDriver/Src/uart.c:120:6:USART2_IRQHandler	16	static
+../MyDriver/Src/uart.c:129:6:UART1_Transmit	24	static
+../MyDriver/Src/uart.c:138:6:UART2_Transmit	24	static
+../MyDriver/Src/uart.c:148:9:UART1_Receive	16	static
+../MyDriver/Src/uart.c:157:9:UART2_Receive	16	static
+../MyDriver/Src/uart.c:166:6:UART1_send_number	32	static
+../MyDriver/Src/uart.c:185:6:UART2_send_number	32	static
+../MyDriver/Src/uart.c:206:6:UART1_print_log	24	static
+../MyDriver/Src/uart.c:213:6:UART2_print_log	24	static
+../MyDriver/Src/uart.c:220:6:UART1_send_float	24	static
+../MyDriver/Src/uart.c:235:6:UART2_send_float	24	static
+../MyDriver/Src/uart.c:251:9:UART_Parse_Speed	40	static
+../MyDriver/Src/uart.c:274:6:UART_Parse_Command	24	static
+../MyDriver/Src/uart.c:293:6:UART_Parse_Byte	16	static

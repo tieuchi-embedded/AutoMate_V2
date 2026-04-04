@@ -1,0 +1,4 @@
+../MyDriver/Src/as5600.c:15:9:AS5600_ReadStatus	1
+../MyDriver/Src/as5600.c:22:10:AS5600_ReadAngleRaw	1
+../MyDriver/Src/as5600.c:33:7:AS5600_ReadAngleDeg	1
+../MyDriver/Src/as5600.c:39:7:AS5600_ReadAngularSpeedDeg	4

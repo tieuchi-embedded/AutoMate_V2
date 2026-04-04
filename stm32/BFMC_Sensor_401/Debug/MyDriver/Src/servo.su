@@ -1,0 +1,3 @@
+../MyDriver/Src/servo.c:15:6:PWM_Init	56	static
+../MyDriver/Src/servo.c:67:6:Servo_Speed_Set	24	static
+../MyDriver/Src/servo.c:75:6:Servo_Steering_Set	24	static
